@@ -1,11 +1,8 @@
 #!/usr/bin python3
 # encoding: utf-8
-from translate import Translator
-translator = Translator(to_lang="en",from_lang='zh')
+
 import json
 
-en = 10
-zh = 6
 with open("csDic.json",'r') as load_f:
     load_dict = json.load(load_f)
 
@@ -23,6 +20,5 @@ for language in load_dict['language']:
     language['key'] = key;
        
         
-with open("csDic.json","w") as dump_f:
-    json.dump(load_dict,dump_f)
-
+with open("record.cn.txt","w") as file_cn:
+    file_cn.write(content);
