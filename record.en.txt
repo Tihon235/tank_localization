@@ -1,0 +1,1525 @@
+download file
+Network error (error : 801)\r\n{0}
+You are currently on the carrier network, the download will generate additional traffic, and continue to update?
+The network is disconnected, please try again...
+Folder creation failed, please close the security software or restart
+Check for updates
+Current resource version number:
+Unable to link to the network
+Download updated Tips from CDN
+The game version is too low, please update to the latest version
+Insufficient disk space, try again after cleaning the disk!
+Insufficient disk space
+Download MD2 file
+Cache directory and streaming directory No MD2 file exists
+Cache directory exists MD2 file
+Streaming media directory exists MD2 file
+MD2 HashCode consistent
+After the update is complete, save the version number
+Download MD file
+There is no MD file in the cache directory and the streaming directory.
+Streaming media directory exists MD file
+Cache directory exists MD file
+Both the cache directory and the streaming directory have MD files.
+Update resources, please wait
+Update the number of files in the resource
+The network is disconnected, try to reconnect...
+Ignore version.dat
+Cache directory to save MD files
+Cache directory to save MD2 files
+This update is about {0:F2}MB. Are you currently on the carrier network, are you starting to update?
+This update is about {0:F2}MB, you are currently on the wifi network, are you starting to update?
+Download speed: {0:F2} MB/S
+Specify the file to compress:
+does not exist!
+E-mail can not be empty
+E-mail format is incorrect
+Password reset verification has been sent to your email address, please visit the email address to view
+password can not be blank
+Password length cannot be less than 6 characters
+The game is starting, please wait
+Store initialization error, error message {0}
+Purchase item {0} failed, reason for failure {1}
+Store initialization is not ready
+Recharge successful
+Recharge failed
+Whether you want to quit the game
+Camera
+bullet
+Tank suspension
+Disconnected from the network
+Light weight
+Medium
+Heavy
+day
+hour
+minute
+silver
+Global experience
+gold
+Parking space
+Senior account
+tank
+Error within 100 meters
+Aiming time (seconds)
+Turning speed (degrees/second)
+Rate of fire (fams/minutes)
+Observation range (m)
+Insufficient bullets, please add ammunition
+Congratulations
+hit
+Front body
+Side of the body
+Back of the car
+Turret front
+Turret side
+Turret face
+Track front
+Track side
+Behind the track
+Get Version File Timeout
+Get MD file timeout
+The ammunition frame exploded and the chariot was destroyed.
+Chariot fire
+The chariot caught fire and was burned
+The fire was extinguished
+Occupation base score
+Defense base score
+Please move to the specified location
+In addition to destroying enemy chariots, the occupation flag can also win.
+The enemy appeared and kept the flag of occupation
+Please drag the button on the left to control the movement of the tank
+We were discovered, destroying enemies in the movement
+Destroy the enemy
+The enemy chariot is far away from us, please open the mirror for precise shooting
+shooting!
+Discover enemy chariots! Please move the turret to aim
+Just now, open fire
+Your teammate is investigating the enemy
+Please move to the target location
+Please swipe the screen to move the turret
+The gun was damaged and could not be fired
+No bullets, no fire
+[IPServer] [s] field is empty!
+[IPServer] [sl] field is empty!
+[IPServer] [ar] field is empty!
+Successful activation
+Activation code is already in use
+Invalid activation code
+Not open
+Received
+receive
+carry out
+Keep visible on the device
+Control the lens using the right side of the screen
+Aiming at the bunker on the left
+The turret follows your lens
+Aiming at the tank on the right
+Use the joystick to control your tank
+Move to the specified location
+Move to the direction of the arrow
+Aim at the enemy
+Destroy enemy armor
+Attention! The chariot is damaged in battle
+Damage to members and modules will affect tank properties
+Driver injured
+Use a first aid kit to treat members
+Engine damage
+Repair the module with the repair box
+Switch to sniper mode for precise aiming
+Attacking enemies in sniper mode
+The front armor has the final armor and is not easily penetrated
+The sides and rear of the tank are more easily broken down
+Move to the specified location to attack the enemy side
+The armor on the side and back is weak
+Destroy enemy armor
+Aim at the weak parts of enemy armor
+Attacking a moving chariot
+Aiming at the enemy to automatically lock
+Congratulations on completing all the tutorials
+Oops, the chariot was hit, please pay attention to covert
+We were discovered by the enemy, please pay attention to concealment
+The shell was bounced off, please adjust the angle of attack
+No breakdown, the target tank armor is very thick, please aim at its weak position
+The member is injured, the performance of the chariot is declining, please be in time for medical treatment.
+Parts are broken, performance is degraded, please fix it right away
+Item setting
+Make up the difference
+replace
+Refund
+payment
+Use CD{0} seconds
+Duration {0} seconds
+Can be used multiple times in battle
+Germany
+Japan
+United Kingdom
+Soviet Union
+United States
+Only for {0}
+Bullet interface settings
+Supply props are successful!
+Supply materials are successful!
+Supply ammunition successfully!
+buy
+sell
+Income details
+Come see my record!
+draw
+victory!
+The enemy vehicles are completely extinguished
+Occupy enemy base
+We killed more enemy vehicles.
+Defeated
+Our vehicles are completely extinguished
+Occupied base
+The enemy killed more of our vehicles
+(no income) practice
+be destroyed
+Surviving
+First win x
+It’s great to play, add a friend.
+{0} invites you to fight
+{0}Request to add you as a friend
+Do you want to exit the room?
+This is just a test
+send
+You have not joined the legion yet, can't chat
+Already [FFD700]
+[-] Send a friend to apply!
+Make sure to delete your friends [FFD700]
+{0} purchased an avatar
+Your application was rejected by {0}
+Sergeant
+Sergeant
+corporal
+private
+You were removed from the Legion
+Standard account
+have already applied
+Whether to confirm the withdrawal of the legion
+Anyone can join
+Need to apply
+Join
+Application
+The number of {0} jobs has exceeded {1}
+Whether to decentralize {0} to the rank of {1}
+Whether to promote {0} to the rank of {1}
+Is it handed over to the {0} army chief?
+Confirm that {0} will be removed from the Legion
+Did not contribute to the Legion and could not receive it
+unaccalimed
+undone
+Member limit {0} (up to 40)
+The name is too short or too long
+Abbreviation is too short or too long
+Announcement is too long
+Please enter the name of the legion
+Please enter the army short name
+Already in the Legion
+The name cannot be empty
+username can not be blank
+Legion name already exists
+Legion name is too long
+Abbreviated name is too long
+bought
+training
+accelerate
+Current level {0} level, has reached full level
+Current level {0} level, training level {1}
+Not learned
+Current skill is full
+Username can not be empty
+3 months ago
+Month ago
+Days ago
+Nowadays
+No mail available
+Make sure to delete all read messages
+Return to the room
+start fighting
+Already finished
+Repairing the tank successfully
+Supplementary ammunition success
+Purchase success
+victory
+failure
+Battle: {0}\r\n Tank: {1} \r\n Gold Coin: {2} \r\n Experience: {3}
+Welcome to TankWar
+The amount is incorrect
+Experience less than {0}, not enough to redeem
+Legion information
+Temporarily not yet joined the Legion
+The tank is damaged, please change a tank
+Please prepare first
+Someone is not prepared
+The current tank is in battle, please switch a tank
+Tank grades are inconsistent, please change to the same level tank
+Team match can't change map
+Does it dissolve the room?
+Do you exit the room?
+Buy Vip
+success!
+This purchase will save {0}%
+Already owned
+The server has been maintained
+Nickname length does not exceed 24
+Nickname
+Come see my tank!
+Advanced painting requires a senior account to experience
+Engine power (horsepower)
+strength
+Weight (kg)
+Communication distance (m)
+Maximum load capacity (tons)
+Rotation speed (degrees/second)
+Armor thickness before
+Armor thickness side
+After armor thickness
+Observation range (m)
+Artillery depression angle (degrees)
+Artillery elevation angle (degrees)
+life value
+Front armor
+Side armor
+Rear armor
+Forward speed (km/h)
+Backward speed (km/h)
+Static hidden coefficient
+Static firing coefficient
+Moving hidden coefficient
+Moving firing coefficient
+Climb
+engine
+assembly
+Research and development
+Shell penetration
+Shell damage
+Caliber (mm)
+Number of shells in the magazine
+Single shot filling time (seconds)
+Total loading time (seconds)
+Shooting accuracy within 100 meters
+Aiming time (seconds)
+Weight (kg)
+Rate of fire per minute
+Main gun
+Radio
+suspension
+turret
+Lack of funds
+Insufficient tank development experience
+Equipped
+equipment
+Unselected
+Currently not equipped
+Consume [B7B400FF]{0}[-]
+Unlock [B7B400FF]{0}[-] Tank?
+Engine weight (kg)
+Artillery caliber (mm)
+Average penetration
+Average damage
+Artillery weight (kg)
+Suitable for types of shells
+Communication equipment weight (kg)
+Track weight (kg)
+Turret armor thickness
+Turret rotation speed (degrees/second)
+Turret weight (kg)
+Artillery depression angle
+Artillery elevation
+Armor front/side/back
+Hidden coefficient stationary / firing
+Hidden coefficient movement / firing
+Car body climb
+Under repair
+Damaged {0}%
+In battle
+Repair {0}s
+Driving
+select
+Standard war
+Capture the flag
+Offensive and defensive
+Blood strip
+Module damage related
+Tank type icon
+Battlefield props
+to chat with
+Start the need to hide the widget
+Roger that
+attack
+Request support
+Rapid battle flag
+Guardian flag
+Keep still
+Activation code format error
+Available tasks:
+Developable
+artillery
+track
+Communication
+upgrade
+I got a new tank!
+Successful development
+Training completed
+The tank is in battle and cannot be sold
+Are you sure to sell the chariot?
+article
+Chariot
+total
+Need to develop front tanks
+Available experience
+R&D consumption
+price
+inexperienced
+Exchange experience
++ standard ammunition
+Lack of silver coins
+Redeem silver coins
+Gold inadequate
+Buy gold coins
+Insufficient parking space
+Buy parking space
+Training cost
+Waiting for other players...
+Occupy enemy bases or destroy all enemy tanks
+Occupy a neutral base or destroy all enemy tanks
+Defend our base or destroy all enemy tanks
+Start!
+Nickname length does not exceed 6
+Name is the same as current
+Function not yet open
+Attention area
+Simple message
+Message with picture
+Injury prompt
+Combat medal
+Medal of title
+Epic medal
+Commemorative medal
+Stage medal
+Squad medal
+Senior account time:
+The room is full
+invite
+Invited
+Total kill
+Total victory
+Week kill
+Zhou Shengli
+Legion
+Kill number
+Number of wins
+Legion points
+Not on the list
+unavailable
+Time
+Minute
+second
+Available!
+turn on
+ordinary
+Standard container
+rare
+Large container
+special
+Giant container
+Already owned, converted to silver coins\r\nx{0}
+Available tank
+Go now
+completed
+Causing damage x{0}
+Assist damage x{0}
+Wound the tank x{0}
+Destroy the tank x{0}
+Light up x{0} for the first time
+Flag score x{0}
+Flagkeeping score x{0}
+permanent
+Loading legion
+Loading skills
+Load task
+Login completed, enter the game
+Loading research and development vehicles
+Load player record
+Load player information
+Load tank list
+Loading the battle tank
+Guide novice
+Dear Commander, Congratulations on completing the training for the recruits. Let's talk about advanced knowledge.
+Guide equipment supply
+Commander, please bring along the equipment before entering the battle, and better protect the chariots and members in the battle!
+Fire extinguishers can automatically extinguish the burning tank
+First aid kit can treat injured members in combat
+Repair box can repair all damaged modules at once
+Now we are going to replenish supplies.
+Ammunition guidance
+Each tank can be loaded with different ammunition. Each ammunition has different characteristics. Let’s take a look.
+The choice of ammunition is extremely important in combat performance. Each type of ammunition has a corresponding armor piercing and damage range, and will not cause damage without penetrating armor.
+Each chariot has the maximum ammunition loading. The sum of all kinds of ammunition cannot exceed the upper limit, so please choose the right ammunition with strategy. Note that the number on the right side of the icon on the left represents the armor of the current ammunition and the range of damage.
+Boot battle mode
+The game offers a rich combat mode, let's take a look
+Standard mode, will match the player of the current tank level, experience reward after battle, etc.
+Team mode, you can open black with friends
+Practice mode, familiar with mapplay, but without any rewards
+Finished up, let’s do a real fight.
+Commander, we need to expand the parking space to buy more vehicles.
+Research and development of new housing
+Commander, we can develop new tanks.
+Please choose a tank that can be developed.
+Develop other shells
+Commander, we have more tanks to develop
+Choose a department and buy the chariot you want.
+Light tank, initial grade tank
+Medium tank, maneuvering better performance
+Heavy tank, armor protection, the best amount of traffic
+Choose and buy a chariot
+Enhanced barrel
+Commander, we can upgrade the barrel of the tank.
+Develop a higher level of barrel, tank penetration and damage will be greatly improved
+R & D is completed, let us equip with new gun barrels, the new main gun does not carry any ammunition
+Drag the slider to complete ammunition replenishment
+Sale of parking spaces
+Commander, abandoned vehicles, we can sell
+Introduce global experience, experience exchange
+Congratulations, we can exchange the global experience, let's see it.
+You can adjust the global experience value to be redeemed up and down
+Adjustment completed, redemption
+View revenue
+At the end of the battle, let’s look at the benefits.
+Commander, we can get more from each battle
+Member guidance
+Let’s take a look at the latest car volume. All the cars are driven by a unified crew.
+The higher the occupant is, the better the performance of the chariot
+After mastery reaches 100%, the occupant can train skills
+Training occupants in military schools
+Participate in the battle and increase the mastery to 100%
+Christmas event
+During the Christmas period, you can receive the corresponding gold coin rewards when you complete the accumulated gold coin refilling conditions.
+Accumulated recharge
+During the event, you can receive the corresponding rewards by completing the accumulated recharge conditions.
+Cumulative consumption
+During the event, you can receive the corresponding rewards by completing the accumulated consumption conditions.
+First win 5 times experience
+In the standard mode, the first victory 500% experience gains
+Double D double
+In the standard mode, use the D-series any tank to participate in the battle and achieve the following conditions in the battle, then you can get 200% experience gain after the battle is over. 1 Damage to enemy tanks ≥1000
+M system double
+In the standard mode, use the M-Series any tank to participate in the battle and achieve the following conditions in the battle, then you can gain 200% experience gain after the battle is over. 1 Damage to enemy tanks ≥1000
+Y department double
+In the standard mode, if you use the Y-series tank to participate in the battle and achieve the following conditions in the battle, you will get 200% experience gain after the battle. 1 Damage to enemy tanks ≥1000
+S department double
+In the standard mode, if you use the S-series to participate in the battle and get the following conditions in the battle, you will get 200% experience gain after the battle. 1 Damage to enemy tanks ≥1000
+Accumulated up to 1400 gold coins
+Accumulated 2800 gold coins
+Accumulated recharge of 6000 gold coins
+Accumulated up to 10,000 gold coins
+Accumulated consumption of 1500 gold coins
+Cumulative consumption of 3,600 gold coins
+Accumulated consumption of 7,000 gold coins
+Accumulated recharge 2900 gold coins
+Accumulated up to 6100 gold coins
+Accumulated 16,000 gold coins
+Accumulated 34,000 gold coins
+{name} got the gold coin tank {0}
+{name} got the tank {0}
+{name} upgrades {0} to an elite tank
+{name} Single battle to destroy {1} tanks!
+Automatic fire extinguisher
+Automatic fire extinguisher.
+First aid kit
+Treat all injured members.
+Member treatment completed
+Repair box
+Repair all damaged modules.
+Module repair completed
+Multi-function reply package
+Extinguish, repair all modules and treat all members.
+Member, the module is all normal
+Overdrive
+{0}% engine power.
+{0}% loading speed. {1}% chance of hitting an enemy tank module.
+Standard gasoline
+{0}% engine power, {1}% turret rotation speed.
+Protective bag
+{0}% for member protection, {1}% module repair speed, {2}% engine durability. {3}% ammunition shelf durability. {4}% fuel tank durability.
+Canned cola
+Member skill mastery increased by {0}%.
+condensed milk
+black tea
+chocolate stick
+Wild Land - Standard War
+Wild Land - Capture the Flag
+Wild Land - Offensive and Defensive
+Highway Bridge - Standard Warfare
+Highway Bridge - Capture the Flag
+Highway Bridge - Offensive and Defensive
+Eastern European battlefield - standard war
+Eastern European battlefield - capture the flag
+Eastern Europe battlefield - offensive and defensive
+African Village - Standard War
+African villages - capture the flag
+African villages - offensive and defensive
+City Lane - Standard Warfare
+City Lane - Capture the Flag
+City Lane - Offensive and Defensive
+Island - Standard War
+Island - capture the flag
+Island - offensive and defensive
+Injury to members will reduce the overall combat capability of the vehicle.
+If the tank ammunition is hit with a fatal blow, it will explode and destroy the chariot.
+Using supplies and consumables can help you fight better.
+The first aid kit is used to treat all injured members immediately.
+Destroying the engine or track of an enemy chariot will stop it from moving.
+The vehicle has various modules, and the damaged module has reduced combat efficiency.
+Damaged undamaged modules can continue to operate, but efficiency is reduced.
+A damaged module will not function properly.
+Damaged modules are automatically repaired, but they are damaged after repair and the combat efficiency is reduced.
+All damaged modules will be repaired immediately using the repair tool.
+Attacking the engine of an enemy chariot or destroying its fuel tank can cause the chariot to catch fire.
+Team members will spend some time fighting fire.
+Automatic fire extinguishing will be carried out automatically.
+Vehicles that catch fire will continue to lose their health and will destroy the module and reduce the efficiency of their combat.
+In order to prevent the enemy from occupying our base, it is necessary to cause damage to the enemy vehicles that are being occupied.
+The more chariots that enter the flag-taking point, the faster the occupation.
+After completing the mission, you can get certain rewards, including: experience silver coins or gold coins.
+Fire support
+The number of tracks that hit an enemy chariot or interrupted in combat (4 or more)
+The target that is destroyed or self-destructed by the player is counted as \njumping and un-punctured is not counted. If there are two or more players attacking the same number of times, this honor will be awarded to more experienced players\n this Honor is awarded only once per battle
+Patrol
+The investigation assisted the team to injure more than three enemy tanks
+When the enemy chariot is injured, it must be the only chariot that can detect the target\n. If more than one player assists the friendly army to light up and injure the same number of enemy vehicles, the honor is awarded to the field. Players\n this honor can only be obtained once in a battle
+Capture the flag
+Get more base occupation scores (at least 80 points) than other players
+This achievement depends on whether or not the base is successfully occupied.
+Scout
+The number of enemies found in the team is the highest (at least 5 enemies are found)
+Win this battle\n the honor is awarded only once in a battle
+warrior
+Destroy the enemy in the team (at least four enemies)
+If there are two or more players with the same number of wrecks, then the player who has gained more experience will be awarded. This honor is only awarded once in a battle.
+Large Diameter
+The highest damage done in a battle
+The damage caused is at least 35% of the total life of the enemy vehicle and not less than 1000 points. If the damage caused by more than two players is the same, the player who has gained experience in this battle will be awarded. Field battles are only issued once
+Phoenix
+Withstand more than 11 attacks and more than 1000 points of potential damage
+Surviving in battle\n If two or more players are subject to the same level of potential damage, the player who receives the most attacks will be awarded the player with the highest experience if the damage is the same as the number of attacks. nThis honor is awarded only once
+Guard
+The highest score of interference with enemy occupied bases, and no less than 70
+If more than two players get the same score, they are awarded to the player with the highest experience. \n The honor is awarded only once per battle.
+Commando
+The whole battle remained undiscovered and occupied the base alone
+heroic
+Crashed into an enemy tank
+Hit a higher level tank\n this achievement is awarded only once per game
+Lasenie Heroes Medal
+Destroy 7 enemy vehicles in a battle
+Targets are tanks of level 5 or higher
+Poole Medal
+Destroy 6 enemy vehicles in a battle
+Radley Walters Medal
+Destroy 5 enemy vehicles in a battle
+Knicks Medal
+Destroy 4 enemy vehicles in a battle
+Enemy tanks must be at least 1 level higher
+Klobanov Medal
+Fight against 3 enemies alone and win
+Survived in battle
+Austin Medal
+Driving a light tank and destroying more than 3 enemy tanks in one battle
+The enemy chariot must be at least 1 level higher
+Rehwa Silello Medal
+Driving a medium tank, destroying more than 3 enemy tanks in one battle
+Orlick Medal
+Driving heavy tanks and destroying more than 3 enemy vehicles in one battle
+Langlade Medal
+Destroy at least 3 enemies trying to occupy our base in a battle
+The target of destroying the target must occupy the circle within the circle, or the target of entering the occupation state at the same time is counted.
+Tasia Medal
+Destroy at least 5 enemy tanks with a loss of more than 80% of their health
+Survived and won the battle victory\n must first meet the damage conditions, then start counting the number of kills
+Bruno Medal
+Destroy at least 4 enemy tanks with a loss of more than 80% of their health
+Billot Medal
+Destroy at least 3 enemy tanks with a loss of more than 80% of their health
+Ding Ding Medal
+Kill the last enemy chariot with the last shell
+Heart is like water
+Under the enemy's firepower, the chariot was not punctuated or bounced 10 times in a row and eventually survived.
+Ranger
+Destroy all enemy light tanks (at least three or two) in one battle
+Sparta
+Survived due to armor jump or unexploded, the hit value must be less than 10% when hit
+Leclerc Medal
+Occupation base total score
+Win the battle victory\n to count all the occupation scores obtained in a battle, except for the hegemony mode
+Pope medal
+Press to find the number of enemies
+Kensper Medal
+Causing and bearing total damage
+Lavrinian Medal
+Defense base total score
+Each battle counts no more than 100 points. The occupation score under the hegemonic mode is not counted in the account statistics.
+Abrams Medal
+Based on the total number of survivors in the win
+Carius medal
+According to the number of enemy vehicles destroyed
+Team victory
+Team battle wins
+Hero company
+The squad destroyed at least six or two tanks
+Team members can get this honor
+Brothers
+Each team member destroyed more than 2 enemy tanks and survived
+The team survived
+the Avengers
+Eliminate enemies that kill your squad members
+Combat Award: Special
+The average experience of the current chariot must be higher than the data of the other 99% of the players in the 7 days.
+Combat Award: Level I
+The average experience of the current chariot must be higher than the data of the other 95% of the players in the 7 days.
+Combat Award: Level II
+The average experience of the current chariot must be higher than the data of the other 80% of players in 7 days.
+Combat Award: Level III
+The average experience of the current chariot must be higher than the data of the other 50% of the players in the 7 days.
+Number of lighting
+Light up damage
+cause some damages
+Fatal blow
+Impact damage
+Destroy the tank
+Destroy track
+Resist injury
+Fatal injury
+Subject to shooting damage
+Suffered from impact damage
+Injured by fire
+The tank was destroyed
+Weekly win award
+1st place award
+2nd place reward
+3rd place reward
+4th-10th reward
+11-100th reward
+Weekly kill reward
+Legion Ranking Award
+2-5 reward
+6-10 rewards
+unknown mistake
+The game version is too low, please update
+Player does not exist
+The name is too long
+The name already exists
+Name has sensitive words
+Players online
+Landing elsewhere, forced to go offline
+Log in too many players and try again later
+Need to re-login
+determine
+Refuse
+Ready to fire!
+Ready! Ammunition {0}
+Filling the remaining {0} seconds
+attack
+Occupation base
+Base defense
+5 - 10 (probability 5%)
+400 - 5 000 (probability 95%)
+1 - 100 (probability 95.3%), using gold coins can greatly increase the probability of winning
+7 500 - 8000 (probability 4.7%), using gold coins can greatly increase the probability of winning
+500 - 1000 (probability 6.1%), using gold coins can greatly increase the probability of winning
+10 000- 250 000 (probability 88%), using gold coins can greatly increase the probability of winning
+VI-X gold coin tank (probability 5.9%), using gold coins can greatly increase the probability of winning
+Rush shot
+When the range of the cannonball is 100% higher than the minimum, there is a {0}% chance to shoot a precise shot.
+Shooting is extremely effective on the go
+Break through
+If there are at least two enemy tanks within 50 meters around the vehicle, the engine will accelerate by {0}%
+Especially suitable for active offensive tanks
+Recoil shock absorption
+After the fire, the range of the shells is reduced by {0}%
+Especially suitable for automatic loading vehicles
+Enhanced concealment
+Vehicle concealment improvement {0}%
+no
+Furious filling
+Loading the next round of shells after destroying a tank plus {0}%
+Not suitable for autoloading vehicles
+Enhanced penetration
+Launched shells have a {0}% chance to gain a higher penetration depth
+After the skill is triggered, the deep float of the projectile will increase to 100%-125% of the value of the attribute display. Normally, the penetration depth is 75%-125% of the displayed value.
+Combat guide
+Member's experience gained in combat increased by {0}%
+Stable driving
+The main gun walk is reduced by {0}% when firing on the road
+Stable aiming
+The main gun spread is reduced by {0}% when turning the turret
+Desperate precision
+When all friendly vehicles are destroyed, your field of view and aiming speed increase by {0}%
+Smooth steering
+Going to the vehicle's cannonball walk is reduced by {0}%
+indestructible
+Reduced negative effects of damaged but not completely damaged modules {0}%
+King of wrestling
+If there is an enemy chariot within 30 meters around the vehicle, the rotation speed of the turret will increase by {0}%
+Very suitable for tanks with slower turret rotation
+Extreme speed fire
+Extinguishing fire speed by {0}%
+Especially suitable for vehicles that are easy to catch fire
+Fighting
+The main gun loading speed is increased by {0}% when the remaining life of the vehicle is less than 15%
+Suitable for high life, high armored vehicles
+Extreme speed repair
+Damaged module repair time reduced by {0}%
+The fired projectile has a probability of {0}% to damage the module after hitting the enemy vehicle.
+The probability of damage to a local vehicle module after the skill is triggered is 100%. Normally, the probability is based on the module and the range of the range is 27% to 100%.
+Enhanced steering
+Vehicle steering speed increased by {0}%
+T-15 Chariot Package
+T-15 recruits chariot package, repeatedly get the tank compensation 900 gold coins, the package can be purchased repeatedly
+Golden Skull M4A2E4 Sherman Chariot Package
+Jin Shantou M4A2E4 Sherman Chariot Gift Pack, repeatedly obtained the tank compensation 1500 gold coins, the package can be purchased repeatedly
+Firefly Chariot Package
+Firefighter Chariot Gift Pack, repeat the tank to compensate 3,500 gold coins, the package can be purchased repeatedly
+Recruit package
+Recruitment package, the package can be purchased repeatedly
+Advanced package
+Advanced package, the package can be purchased repeatedly
+Expedition package
+Expedition package, the package can be purchased repeatedly
+War package
+War package, the package can be purchased repeatedly
+Weird NbFz
+Weird NbFz, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+Tiger type P
+Tiger type P, if the tank will compensate 100 gold coins, the package can be purchased repeatedly
+Black Panther F
+Black Panther F, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+Lion
+Lion style, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+VK3002DB, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+firefly
+Fireflies, if the tank will compensate 100 gold coins, the package can be purchased repeatedly
+260 project
+260 project, if the tank will compensate 100 gold coins, the package can be purchased repeatedly
+T-44-100, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+T-54 prototype car
+T-54 prototype car, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+M60, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+Fury, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+Super Pershing
+Super Pershing, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+M6A2E1, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+M4A2E4, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+T34, if you own the tank will compensate 100 gold coins, the package can be purchased repeatedly
+I
+Bobcat
+II
+Type 38(t)
+III
+IV
+Black panther
+Panther II
+Leopard 1 prototype
+Leopard 1
+Type IV D
+Type IV H
+Tiger
+Tiger King
+Mouse prototype
+Rat type
+MKII cruise tank
+Stuart I-IV
+MK.IV cruise tank
+A13 Covenant
+Cromwell
+comet
+Centurion (Xun Qiulun) Mk.I
+Centurion (Xun Qiulun) Mk.VII
+Centurion AX
+Matilda II
+crusader
+Churchill I
+Churchill VII
+Caernarfon
+conqueror
+T-54 light
+Xiafei
+M41 Bulldog
+M3 Lee
+M4 Sherman
+M26 (Pershing)
+狂鸭M5
+Xiafei MKII
+Stars M6
+Gold 59
+Gold Dragon Pattern 59
+SD II
+SD 38(t) type
+SD III
+SD IV
+SD Panther
+SD Panther II
+SD Leopard 1 prototype
+SD Leopard 1
+SD IV D type
+SD IV H type
+SD Tiger
+SD Tiger King
+SD mouse prototype
+SD mouse
+SD MKII cruise tank
+SD Crusade
+SD Stuart I-IV
+SD Matilda II
+SD Churchill I
+SD Churchill VII
+SD card
+SD Conqueror
+SD T-54 light
+SD Xiafei
+SD M41 Bulldog
+SD M3 Lee
+SD M4 Sherman
+SD M26 (Pershing)
+SD Lynx
+"Krupp" M305
+Maybach HL 38 TR
+Pudala NRi
+Maybach HL 62 TR
+Maybach HL 66 P
+Maybach HL90
+Maybach HL 120 TRM L
+Maybach HL 157 P A
+Argus 12LD330H
+Argus 12LD330HL
+Hodgekis 6 cylinders. Mercedes 190 horsepower
+Hodgekis 6 cylinders. Mercedes Benz 230 hp
+Maybach HL 57 TR
+Maybach HL 62 TRM
+Pudala TNPS
+Pudala EPA/2
+Pudala EPA/3
+Maybach HL 108 TR
+Maybach HL 120TR
+Maybach HL 120TRM
+Maybach HL 157 P
+Mercedes-Benz MB503
+Maybach HL 210 TRM P30
+Maybach HL 230 TRM P30
+Maybach HL 150
+Maybach HL 174
+Maybach HL 210 TRM P45
+Maybach HL 230 TRM P45
+DB603 supercharger
+Porsche 180/2
+Maybach HL 116
+Maybach HL 295 Type B
+Maybach HL 234 TRM P72
+General Motors 6V53T
+Mercedes MB 881
+General Motors 6V53
+Luo Luo phantom
+AEC Type 179
+Gilbertson T-1020-4
+Continental W-670-9A
+2x Leland E164
+Nafield Liberti Mk.III
+Nafield Liberti Mk.V
+Wright Continental Corporation R-975C1
+Chrysler A57
+Wright Continental Corporation R-975C4
+Bedford Double-6 Cylinder
+Luo Luo engine
+Rolls Royce Mk.IVB
+Luo Luo Mk.IVC engine
+Rolls Royce M120
+Luo Luo Griffin
+Nafield Liberti Mk.II
+Rolls Royce Meteor TTSC
+Gilbertson T-10204
+Continental Company W670-7
+Continental company W-670
+Continental Corporation R-975-C1
+Double Cadillac 42 series
+Wright Continental Corporation R-975EC2
+Double Cadillac 44T4 Series
+Ford GAA
+Ford GAN
+Continental company AOS-895-1
+Continental company AOS-895-3
+Continental company AOSI-895-5
+Wright R-975EC2
+General Motors Corporation 6046
+Continental company AV-1790-1
+Ford GAF ​​V8
+Wright G200 M 795C9GC1
+Wright G2X M781C9GC1
+Wright G200 M781C9GC1
+Ford GAC
+General Alison V1710-E32
+Mainland AV-1790-3
+Continental company AV-1790-3A1
+Continental company AV-1790-5B
+Continental company AV-1790-7C
+Continental AV-1790-7B
+Continental company AOI-628-1
+Continental company AOI-628-2
+Continental company AOI-1490
+Wright G200 M781 C9GC5
+Continental company AOS-895-3A
+Continental company AOSI-895-5A
+Continental company AOSI-895-5B
+90 mm Rhine Metal DM1
+QF 2 pound gun
+40 mm gun
+QF2 pound gun r Mk.X type
+QF 2 pound gun Mk.X-B
+OQF 3-inch Mk.I howitzer
+QF 6-pound gun Mk.III type
+6-pound gun Mk.V (L|50) type
+OQF 17-pound gun MK.IV SH-SH
+OQF 17-pound gun Mk.VII
+75 mm Mk.V type
+75 mm Vickers HV
+3.7 inch howitzer
+OQF 77 mm Mk. II type artillery
+OQF 20-pound gun type A
+OQF 20-pound gun type B
+QF2 pound gun r Mk.X
+Browning MG.50 caliber HB.M2
+152 mm XM81 rocket launcher (traditional)
+105 mm light
+100 mm D-10TM 1945
+100 mm D-10T 1945
+Type 59 100 mm
+Type I A
+Type I B
+"Bobcat" Type A
+"Bobcat" type B
+VK1602 "Leopard" A style
+VK1602 "Leopard" B type
+VK2801 Type B
+Tank II type A
+Type II F
+38(t) Type A
+38(t) Type E
+Tank III J
+Tank III type L
+Tank III/IV
+Type III-IV tank type B
+VK3001 (D) enhanced type
+V type A
+"Black Panther" GI type
+"Black Panther" 8.8cm KW.K.43 L/71
+Leopard I prototype A1
+Leopard I prototype A2
+"Leopard" I
+Type IV C
+Type IV G
+VK3601(H)B type
+"Tiger" type H1
+"Tiger" type E
+"虎王" VS type
+"Tiger King"
+170 tons of tank
+"rat" prototype
+"rat"
+VK4502(P) Type B
+VK4502 (P) enhanced type
+Tiger (P) (A) type
+"虎" P C type
+E-100B type
+"lion"
+VK3002DB type
+VK3002DB enhanced type
+Black Panther II A
+Panther II suspension
+HWK12 improved
+Stuart type I
+Stuart IV
+Crusader Mk.III
+Sherman IC
+Sherman VC
+"Churchill" Type I
+Churchill III
+Churchill Type VII
+Conqueror I
+Conqueror III
+Centurion Mk.III
+Centurion Mk.VII
+Centurion Mk.9
+Stuart E1
+Stuart E2
+T41 experimental type 1
+T71 improved
+XM551 test vehicle
+XM551 Sheridan
+A-20 1938 type
+A-20 1941 type
+T-80 enhanced
+T-34 1941 type
+T-34 1943 type
+A-44 enhanced
+T-54 light version enhanced
+KV-1 1940
+KV-1 1941 type
+KV-2 1940
+KV-2 1941 type
+T-54 (prototype car)
+T-54 1946 type
+Type 59
+MT-25 enhanced
+LTG improved
+LTTB enhanced
+I "Brada"
+Lukes 2cm
+Lukes 5cm
+VK1602 "Leopard" style
+VK2801A type
+VK2801B type
+Tank II type B
+38(t) E/F type
+Type III/IV A
+Type IV B
+V "arrow" type
+Porsche Standard
+"Tiger" type H2
+"Tiger King" TN 150
+"Tiger King" S type
+VK4502 (P) heavy armor
+DW test type
+VK3001 (H) initial type
+"虎" (P) TN type I
+"虎" P NT type
+VK3002 (DB) "arrow" type
+Cheetah IIA
+Black Panther II "Arrow"
+Cruise Mk.I
+Stuart III
+Crusader Mk. I
+Sherman I
+Churchill Type I
+Churchill III
+Centurion Mk.II
+Centurion AX*
+Centurion AX**
+Conqueror Mk.II
+Mk.IV Cruise
+Conqueror Mk.IV CS
+Cromwell Mk. I
+Cromwell Mk.IV
+Comet Mk.I
+BT-5 1935
+BT-7 1937
+T-34 1940
+T-34 1942 type
+T-28 standard type
+T-28 improved
+KV-1 LKZ Type 1941
+KV-1 ChTZ 1942
+257 project
+Artillery damaged, shooting accuracy reduced
+The gun was damaged and could not be fired.
+The turret is damaged and the rotation speed is reduced
+The turret is damaged and cannot be turned
+Damaged ammunition frame and reduced filling speed
+Damaged track, increased probability of breakage
+Track damage, stop moving
+Engine is damaged and travel speed is reduced
+Engine damage, loss of power
+The tank is damaged and the chance of fire increases
+Observed hole damage, reduced visual field
+Car length
+The captain was injured and the observation distance was reduced.
+Who will replace
+Driver
+Driver injury, reduced mobility
+gunner
+Gunner injured, shooting accuracy decreased
+Can only be beaten
+Loading hand
+The loading hand is injured and the filling speed is reduced.
+Artillery vertical stabilizer
+20% increase in aiming accuracy during tank movement and turret rotation
+Improved gun control system
+Aiming speed increased by 10%
+Advanced optical viewing mirror
+Increase the observation radius by 10% but not more than 500 meters
+Bullet machine
+10% shorter filling time
+Toolbox
+Increase 25% module repair speed
+Anti-falling lining
+Armor absorption energy coefficient increased by 30%, member reduced damage coefficient increased by 30%
+Module strengthening system
+Enhance the durability of all modules and reduce the damage caused by impact. +20% track, fuel tank and ammunition stand durable. -20% impact damage
+Camouflage net
+Reduce the probability of being discovered when 5% of the chariot moves. The chariot is still 3 seconds and produces a double concealed effect.
+Ballistic correction sensor
+Increase the chance of hitting an enemy. 100 meters walk -10%
+Ammunition overload system
+Improve long-range hit rate and penetration rate. +30% shell flight speed, 50% flight distance loss penetration
+Destroyer
+Accumulated destruction of 8 tanks
+Destroyer - Germany
+Cumulative destruction of 2 tanks
+Destroyer - United Kingdom
+Destroyer - the Soviet Union
+Destroyer - United States
+Cannon
+Destroy 2 tanks in one battle
+Cannon God - Germany
+Cannon God - UK
+Cannon God - Soviet Union
+Cannon God - United States
+Firepower pioneer
+Accumulated damage of 5000 points
+Firepower Pioneer - Germany
+Accumulated damage caused by 1000 points
+Firepower Pioneer - UK
+Firepower Pioneer - USSR
+Firepower Pioneer - USA
+Fire showdown
+In a battle, cumulative damage caused 500 points
+Fire showdown - Germany
+In a battle, the cumulative damage is 300 points.
+Fire showdown - UK
+Fire showdown - Soviet Union
+Fire showdown - United States
+Accumulated 10 times
+Ranger - Germany
+Accumulated 3 times
+Ranger - United Kingdom
+Ranger - Soviet Union
+Ranger - United States
+Cruise pioneer
+Light up 3 times in a battle
+Parade pioneer - Germany
+Light up 2 times in a battle
+Cruise Pioneer - UK
+Parade pioneer - the Soviet Union
+Cruise Pioneer - USA
+Winning the flag
+Get a battle victory
+Victory - Germany
+Winning the flag - UK
+Victory in the flag - the Soviet Union
+Flag victory - United States
+cancel
+confirm
+prompt
+Update announcement
+agree
+log in
+Landing
+Enter email
+account number
+enter password
+password
+registered
+forget password
+Our camp
+Enemy camp
+be found
+Return to garage
+The battle is over!
+Bulldog
+Good luck
+Purchase a premium account
+Collar
+Additional rewards
+Accumulated login 7 days Hao Li send every day
+7 days login
+Activity time
+activity description
+View
+Camera sensitivity
+Camera sensitivity (opening)
+Camera sensitivity (opening lock)
+Automatic lock sensitivity
+In-situ steering sensitivity
+Automatically lock the target
+Standard mobile mode
+control
+sound
+Picture
+Custom button
+Language
+Background music
+UI sound effects
+Tank effect sound
+voice
+Post effects
+shadow
+Water reflection
+High precision terrain
+Surface vegetation
+Tank detail
+Automatic performance tuning
+Power saving mode
+Setting
+save
+return
+Simplified Chinese
+traditional Chinese
+Japanese
+fighting:
+Chariot:
+Battle details
+obtain:
+Matches according to the current tank, random battlefield.
+Invite friends to join the fight
+Team battle
+Invite friends or join AI for practical training
+Buying a field can place more chariots in it
+spend:
+world
+room
+system
+Please enter information
+Enter the player's name
+Friend
+stranger
+Add to
+delete
+spend
+create
+member
+Cumulative active points
+Active points this week
+Find
+Inquire
+Reward this week
+Players in the Legion with active contributions can receive rewards here
+This week's squadron active points
+My active points this week
+Legion leaderboard
+The Legion Rankings are ranked by the number of active points in each legion. Run with your brothers and fight for the honor of the Legion!
+the remaining time:
+Weekly active reward
+Types of
+position
+Application list
+go away
+summer
+winter
+desert
+Automatic replenishment
+Purchase prompt
+Insufficient, is it purchased?
+Purchase goods
+price
+This login is no longer prompted
+drop out
+shut down
+Tank name
+Attributes
+Current member proficiency
+Improve member proficiency
+Ability to train skills when proficiency reaches 100%
+Training to level
+skill
+Training member
+Training with light tanks
+(no tanks that meet the conditions)
+Training with medium tanks
+Training with heavy tanks
+Skill name
+Have learned
+effect
+grade
+Skill description
+Elite experience
+Choose acceleration
+Elite experience is available for all acceleration options
+Get 100%
+spend:
+Get 200%
+Earn 300%
+Exit boot
+Historical login
+select area
+For a better gaming experience, choose your region.
+Smooth
+busy
+Hot
+maintain
+Read traffic, no traffic consumption, please wait...
+Select map
+version number:
+help
+Resist bad games, refuse pirated games, pay attention to self-protection, beware of being deceived, moderately play brains, indulge in game hurts, arrange time properly, enjoy healthy life
+Tourist login
+Email Login
+title
+1 day ago
+One-click collection
+Quick delete
+Battle report
+Landing on the 7th
+Mall
+Supply box
+activity
+warehouse
+task
+Technology tree
+Crew
+achievement
+Painting
+Supply item
+Material
+ammunition
+fighting
+payment:
+application
+ammunition:
+penetrate
+hurt
+supply
+(already owned)
+Firepower
+Protection
+Maneuver
+hidden
+Vacancy:
+ranking
+Combat message
+mail
+reward
+activity Center
+connecting
+experience
+Exchange rate: 1
+Silver coins are the base currency in the game.
+The acquisition of silver coins needs to be accumulated through battle or purchased with gold coins.
+total:
+Remaining:
+exchange
+All vehicles
+exchange rate:
+Use gold coins
+Global experience can be used to develop any tank/module
+Sherman
+The location of different tank modules and members will vary.
+Training Course
+computer
+ready
+Start
+Configuration
+online users:
+Random map
+Click on the right panel to invite friends
+Players in the queue:
+waiting time:
+Chariot level
+Chariot type
+My team
+Heavy tank
+Medium tank
+Light tank
+Ranking
+first name
+Victory session
+My ranking
+reward:
+personal
+Team
+Details
+income
+Tip: Free mode without any rewards
+wreck
+Light up
+Buy tank
+Basic income
+Tank bonus
+Final income
+Friendly army
+enemy
+Assist
+Total damage
+shot
+Direct hit/penetration
+Wound / wreck
+Damage/assisted damage
+Discover the enemy
+Sustain the attack
+No damage
+Base occupation score
+Base defense score
+Mileage (km)
+Player
+Hit/breakdown
+Injury/assisted damage
+Get silver coins
+Repair vehicle
+Supplementary supplies
+Supplementary consumables
+Supplementary ammunition
+Supplemental coating
+R&D experience
+Member experience
+Gain achievement
+Continuous achievement
+congratulate!
+Description:
+Includes a random bonus.
+Collection conditions:
+Wait for the countdown to complete or purchase a container.
+May contain:
+Log in every day to get out of the box and win rewards
+Open also needs
+Remaining today:
+Consumables:
+Vehicle price:
+Daily package
+Gold coins can be used to purchase advanced account time, advanced chariots, silver coins, research and development of top equipment modules, unlocking paint, you can also use gold coins to convert the individual experience of elite tanks into a global experience.
+No paid test, can't buy
+Experience and silver coins
+Every game
+recommend
+Gift package
+vehicle
+Start the game
+replace
+Creating a Role
+announcement
+Logout
+details
+The module has been assembled
+Introduction to the tank:
+Unlock
+Get the tank
+Record
+Battle time
+Average winning percentage
+Average field experience
+Highest experience
+Field average damage
+Average hit rate
+Maximum kill number
+Average number of lighting
+Total number of times
+number of failures
+Survival times
+Total hits
+Total number of fires
+Total experience
+Total number of damages
+Total number of lights
+Number of battles
+get experience
+Hit the target
+Kill
+My medal
+All medals
+This week's activity:
+Position in the Legion:
+add friend
+statistics
+honor
+all
+Parking space remaining
+Country
+Elite
