@@ -10,7 +10,7 @@ with open("csDic.json.bak",'w') as dump_f:
 
 with open("record.en.txt",'r') as load_en:
     lang_en = load_en.readlines();
-
+print(lang_en)
 with open("record.ar.txt",'r') as load_ar:
     lang_ar = load_ar.readlines();
 
@@ -41,10 +41,13 @@ def check_language(jsondata,language_type,lang):
             exsit = True;
             break;
     clone = jsondata[0];
+    
     if not exsit:
         clone['regionID'] = language_type
         clone['text'] = lang.strip()
         jsondata.append(clone)
+        print(lang)
+    return jsondata
 
 length = len(load_dict['language'])
 i = 0
@@ -52,12 +55,12 @@ content = ''
 for language in load_dict['language']:
     print(i /length)
     items = language['datas']
-    check_language(items,en,lang_en[i]);
-    check_language(items,ja,lang_ja[i]);
-    check_language(items,ko,lang_ko[i]);
-    check_language(items,ru,lang_ru[i]);
-    check_language(items,ar,lang_ar[i]);
-    check_language(items,tw,lang_tw[i]);
+    items = check_language(items,en,lang_en[i]);
+    items = check_language(items,ja,lang_ja[i]);
+    items = check_language(items,ko,lang_ko[i]);
+    items = check_language(items,ru,lang_ru[i]);
+    items = check_language(items,ar,lang_ar[i]);
+    items = check_language(items,tw,lang_tw[i]);
     i = i + 1    
 
 with open("csDic.json","w") as dump_f:
