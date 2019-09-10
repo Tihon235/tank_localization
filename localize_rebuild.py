@@ -8,9 +8,12 @@ with open("csDic.json",'r') as load_f:
 with open("csDic.json.bak",'w') as dump_f:
     json.dump(load_dict,dump_f)
 
+with open("record.cn.txt",'r') as load_cn:
+    lang_cn = load_cn.readlines();
+
 with open("record.en.txt",'r') as load_en:
     lang_en = load_en.readlines();
-print(lang_en)
+
 with open("record.ar.txt",'r') as load_ar:
     lang_ar = load_ar.readlines();
 
@@ -33,34 +36,27 @@ ru = 30
 ar = 1
 tw = 41
 
-def check_language(jsondata,language_type,lang):
-    exsit = False;
-    for value in jsondata:
-        if int(value['regionID']) == language_type:
-            value['text'] = lang.strip()
-            exsit = True;
-            break;
-    clone = jsondata[0];
-    
-    if not exsit:
-        clone['regionID'] = language_type
-        clone['text'] = lang.strip()
-        jsondata.append(clone)
-        print(lang)
-    return jsondata
+def check_language(template,language_type,lang):
+    clone = template.copy();
+    clone['regionID'] = language_type
+    clone['text'] = lang.strip()
+    return clone
 
 length = len(load_dict['language'])
 i = 0
 content = ''
 for language in load_dict['language']:
     print(i /length)
-    items = language['datas']
-    items = check_language(items,en,lang_en[i]);
-    items = check_language(items,ja,lang_ja[i]);
-    items = check_language(items,ko,lang_ko[i]);
-    items = check_language(items,ru,lang_ru[i]);
-    items = check_language(items,ar,lang_ar[i]);
-    items = check_language(items,tw,lang_tw[i]);
+    item = language['datas'][0]
+    newjson = []
+    newjson.append(check_language(item,zh,lang_cn[i]));
+    newjson.append(check_language(item,en,lang_en[i]));
+    newjson.append(check_language(item,ja,lang_ja[i]));
+    newjson.append(check_language(item,ko,lang_ko[i]));
+    newjson.append(check_language(item,ru,lang_ru[i]));
+    newjson.append(check_language(item,ar,lang_ar[i]));
+    newjson.append(check_language(item,tw,lang_tw[i]));
+    language['datas'] = newjson;
     i = i + 1    
 
 with open("csDic.json","w") as dump_f:
